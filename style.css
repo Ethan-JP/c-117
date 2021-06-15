@@ -1,0 +1,23 @@
+body{
+    background-image: url("background.jpg");
+}
+
+.header{
+    width: 100%;
+    margin: 0px;
+    font-size: 35;
+    box-shadow: 10px 10px 20px rgba(128, 128, 128, 0.747);
+}
+
+.header2{
+    float: none;
+    background-color: indigo;
+    font-size: 25;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px white;
+}
+
+.header3{
+    font-size: 20px;
+}
