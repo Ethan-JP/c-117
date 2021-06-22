@@ -1,0 +1,46 @@
+body{
+    background-image: url("background.jpg");
+}
+
+.header{
+    width: 100%;
+    margin: 0px;
+    font-size: 35;
+    box-shadow: 10px 10px 20px rgba(128, 128, 128, 0.747);
+}
+
+.header2{
+    float: none;
+    background-color: indigo;
+    font-size: 25;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px white;
+}
+
+.header3{
+    font-size: 20px;
+}
+
+.results{
+    font-size: 18px;
+    margin-top: 15px;
+
+}
+
+#footer{
+    background-color: green;
+    position: fixed;
+    bottom:0;
+width:100%;
+text-align: center;
+color: white;
+line-height: 2;
+}
+
+canvas{
+    border: 5px solid black;
+    margin-top: 110;
+    border-radius: 30px;
+box-shadow: 5px 5px 50px maroon;
+}
